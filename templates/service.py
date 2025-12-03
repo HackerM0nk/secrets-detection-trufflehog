@@ -1,5 +1,5 @@
 [default]
-aws_access_key_id = ${AWS_ACCESS_KEY_ID}
-aws_secret_access_key = ${AWS_SECRET_ACCESS_KEY}
+aws_access_key_id = AKIAX24QKKOLHMESDG5E
+aws_secret_access_key = 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
 output = json
 region = us-east-2
